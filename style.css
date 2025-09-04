@@ -67,3 +67,9 @@ body {
   color: #F9FAF8;
   border: none;
 }
+
+.copyright {
+  color: #F9FAF8;
+  text-align: center;
+  padding: 2rem;
+}
