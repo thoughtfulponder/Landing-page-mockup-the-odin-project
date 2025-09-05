@@ -23,6 +23,10 @@ body {
   background-color: #E5E7EB;
 }
 
+#contact-me {
+  padding: 4rem 1rem;
+}
+
 /* class selectors sections */
 
 .nav-section {
@@ -121,6 +125,27 @@ a {
   color: #1F2937;
   font-size: 36px;
   font-weight: 300;
+  padding: 4rem 0;
+}
+
+.contact-me-content {
+  background-color: #3882F6;
+  color: #F9FAF8;
+  border-radius: 5px;
+  padding: 2rem;
+}
+
+.contact-heading {
+
+}
+
+.contact-heading > p {
+  color: #E5E7EB;
+}
+
+
+.contact-me-content > .btn {
+  border: 2px solid #F9FAF8;
 }
 
 .copyright {
