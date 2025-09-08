@@ -21,7 +21,7 @@ footer {
   padding: 2rem 0 4rem;
 }
 
-#testimonies {
+#about-me {
   background-color: #E5E7EB;
 }
 
@@ -43,7 +43,7 @@ footer {
 .nav-header,
 .hero-content,
 .projects-section-content,
-.testimonies-content,
+.about-me-content,
 .contact-me-content {
   width: 70%;
   margin: 0 auto;
@@ -113,7 +113,8 @@ a:active {
   flex: auto;
 }
 
-.project-heading {
+.project-heading,
+.about-me-heading {
   color: #1F2937;
   font-size: 36px;
   font-weight: 900;
@@ -136,11 +137,15 @@ a:active {
   border-radius: 10px;
 }
 
-.clients-testimonies {
+.about-me-heading {
+  padding: 3rem 0 0;
+}
+
+.about-me-destription {
   color: #1F2937;
   font-size: 36px;
   font-weight: 300;
-  padding: 4rem 0;
+  padding: 0 0 2rem 0;
 }
 
 .contact-me-content {
